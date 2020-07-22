@@ -1,0 +1,38 @@
+body{
+	background-color: #000000;
+}
+header{
+	background-color: #00cc88
+}
+h1{
+	text-align: center;
+	font-size: 70px;
+	background-color: #00cc88;
+	font-family: "New Times Roman";
+
+}
+nav{
+	font-variant: small-caps;
+	font-family:latic;
+	font-size: 150%;
+	text-align: center;
+	background-color: #b3ffe6;
+	display:block;
+}
+section{
+	background-color: #1affb2;
+
+}
+h2{
+	font-style: Courier,"New Times Roman";
+	font-size:40px;
+	color:#002699;
+}
+p{
+	font-style: serif;
+	font-size: 20px;
+	text-align: justify;
+}
+aside{
+	display:none;
+}
